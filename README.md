@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadia Anzum</h1>
 <h3 align="center">I'm a Graduate Student at the University of Windsor, pursuing Master of Applied Computing (MAC).</h3>
 
-<p align="right"> <img src="[https://komarev.com/ghpvc/?username=sadiaanzum&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif)" alt="bear coding" /> </p>
+<p align="right"> <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" alt="bear coding" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sadia_anz" target="blank"><img src="https://img.shields.io/twitter/follow/sadia_anz?logo=twitter&style=for-the-badge" alt="sadia_anz" /></a> </p>
 
